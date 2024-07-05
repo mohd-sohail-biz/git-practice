@@ -1,2 +1,2 @@
 # git-practice
-i am using this to practice git commands
+i am also studying cs in clg, i am using this to practice git commands
